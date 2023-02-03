@@ -3,7 +3,6 @@
 
 
 <img width="1500" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F145a92ae-0388-4535-bc26-da534ae27862%2FUntitled.png?id=c98eb8ac-3653-4190-996a-9dada4810602&table=block&spaceId=66bcd6c1-767b-432b-bc8b-2ca2b70a9759&width=2000&userId=19a6659f-2955-4412-89a5-58fd46fe7022&cache=v2">
-------------------------------
 
 
 # Overview
@@ -17,10 +16,12 @@ Currently support windows PC and MAC PC and used Selenium, BeautifulSoup.
 # Requirement
 1. python
 2. lxml python module
- + pip install lxml
-3. BeautifulSoup python module
+```
+pip install lxml
+```
+4. BeautifulSoup python module
  + pip install BeautilfulSoup
-4. Selenium python module
+5. Selenium python module
  + pip install selenium
 ------------------------------
 
