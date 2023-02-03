@@ -6,7 +6,6 @@
 ------------------------------
 
 
-
 # Overview
 This script helpful to check about the which flight line is lowest price of from GMP to CJU on Naver
 
