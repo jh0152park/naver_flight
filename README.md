@@ -16,13 +16,17 @@ Currently support windows PC and MAC PC and used Selenium, BeautifulSoup.
 # Requirement
 1. python
 2. lxml python module
-```
-pip install lxml
-```
-4. BeautifulSoup python module
- + pip install BeautilfulSoup
-5. Selenium python module
- + pip install selenium
+ ```
+ pip install lxml
+ ```
+3. BeautifulSoup python module
+ ```
+ pip install BeautilfulSoup
+ ```
+4. Selenium python module
+ ```
+ pip install selenium
+ ```
 ------------------------------
 
 # Result Files
